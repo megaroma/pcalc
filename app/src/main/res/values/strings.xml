@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PCalc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pmenu">PMenuActivity</string>
+    <string name="title_user_name">User Name:</string>
+    <string name="title_password">Password:</string>
+    <string name="login">Login</string>
+    <string name="regitration">Free Sign Up</string>
+    <string name="title_try">Try Now</string>
+</resources>
